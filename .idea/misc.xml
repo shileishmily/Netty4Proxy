@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" />
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="CopyrightManager" default="" />
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DependencyValidationManager">
+    <option name="SKIP_IMPORT_STATEMENTS" value="false" />
+  </component>
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/Android/gitrepo/ActionBar-PullToRefresh" value="1386233129941" />
+        <entry key="$USER_HOME$/Android/gitrepo/SwipeBackLayout" value="1386226162477" />
+        <entry key="$USER_HOME$/AndroidStudioProjects/TabViewPagerIndicatorProject" value="1386317491550" />
+        <entry key="$USER_HOME$/AndroidStudioProjects/TestTabViewPagerIndicator" value="1386136160703" />
+        <entry key="$USER_HOME$/AndroidStudioProjects/ViewPagerIndicatorProject" value="1385542119159" />
+        <entry key="$USER_HOME$/AndroidStudioProjects/custom-view" value="1340651416000" />
+        <entry key="$USER_HOME$/AndroidStudioProjects/mvnRepoDemo" value="1386319803738" />
+        <entry key="$USER_HOME$/GitRepo/Dribbo" value="1376991343643" />
+        <entry key="$USER_HOME$/GitRepo/SherlockNavigationDrawer" value="1385373764022" />
+        <entry key="$USER_HOME$/GitRepo/SwipeBackLayout" value="1384761863105" />
+        <entry key="$USER_HOME$/GitRepo/weiciyuan" value="1384769264214" />
+        <entry key="$USER_HOME$/Works/sonmi" value="1384323528138" />
+        <entry key="D:/git/payment/paymentCore" value="2862646936688" />
+        <entry key="D:/git/payment/paymentMq" value="2861801206977" />
+        <entry key="D:/git/push/iospush" value="2865578660679" />
+        <entry key="D:/git/super_plan/cuohe_match" value="2870254129430" />
+        <entry key="D:/workspace/CommonGame" value="4482916838800" />
+        <entry key="D:/workspace/DataFeed" value="2988615165294" />
+        <entry key="D:/workspace/GameMonitor" value="3016784414983" />
+        <entry key="D:/workspace/GameRobot" value="2989986943597" />
+        <entry key="D:/workspace/GameServer" value="2989992574110" />
+        <entry key="D:/workspace/QuantJob" value="2960109290401" />
+        <entry key="D:/workspace/QuantRpc" value="11834467436685" />
+        <entry key="D:/workspace/QuantTradePlate" value="4439153670810" />
+        <entry key="D:/workspace/QuantWeb" value="2971762236583" />
+        <entry key="D:/workspace/QuoteSpiderJob" value="2967366989121" />
+        <entry key="D:/workspace/StockCheck" value="2990084387362" />
+        <entry key="D:/workspace/StockGameWeb" value="2999924976542" />
+        <entry key="D:/workspace/alarmpush" value="4451859397100" />
+        <entry key="D:/workspace/android_push" value="4448736045539" />
+        <entry key="D:/workspace/asteroid_service" value="11849305987087" />
+        <entry key="D:/workspace/asteroidweb" value="3008300942628" />
+        <entry key="D:/workspace/cms" value="4466612755475" />
+        <entry key="D:/workspace/commonWeb" value="3001949435324" />
+        <entry key="D:/workspace/factor" value="4470192775127" />
+        <entry key="D:/workspace/information_rpc" value="10427439953941" />
+        <entry key="D:/workspace/information_source" value="4456194617009" />
+        <entry key="D:/workspace/jhss_core" value="5917047030130" />
+        <entry key="D:/workspace/klinegameserver" value="3010247200034" />
+        <entry key="D:/workspace/mall_rpc" value="11834817621383" />
+        <entry key="D:/workspace/msg_async" value="4439114353562" />
+        <entry key="D:/workspace/newstock" value="4449204860066" />
+        <entry key="D:/workspace/op_service" value="4448487910069" />
+        <entry key="D:/workspace/open_rpc" value="8907355774956" />
+        <entry key="D:/workspace/pay_web" value="2972535431002" />
+        <entry key="D:/workspace/quantstrategyplate" value="4448190351214" />
+        <entry key="D:/workspace/quoteSupport" value="4455187268852" />
+        <entry key="D:/workspace/quote_hkdispatcher" value="4531879217904" />
+        <entry key="D:/workspace/quote_rpc" value="10385285670399" />
+        <entry key="D:/workspace/quotedatatrans" value="4450219731595" />
+        <entry key="D:/workspace/quotemain2-merge" value="27185544478647" />
+        <entry key="D:/workspace/quotesupport" value="4451048963355" />
+        <entry key="D:/workspace/search-rpc" value="8973014976102" />
+        <entry key="D:/workspace/spring-cloud-gradle-sample" value="11994580432751" />
+        <entry key="D:/workspace/stockalarm" value="4450219618465" />
+        <entry key="D:/workspace/stockf10" value="4450219468749" />
+        <entry key="D:/workspace/swagger2markup" value="3004528940090" />
+        <entry key="D:/workspace/tradeweb" value="4459135362462" />
+        <entry key="D:/workspace/userRpc" value="11996421357348" />
+        <entry key="D:/workspace/voteTradeJob" value="2994480363871" />
+        <entry key="D:/workspace/voteTradeRPC" value="11978333919681" />
+        <entry key="D:/workspace/voteTradeWeb" value="2994479478573" />
+        <entry key="D:/workspace/youguuReport" value="36075012965923" />
+        <entry key="$PROJECT_DIR$/../MarketDataReceivor" value="3019041426673" />
+        <entry key="$PROJECT_DIR$/../StateMachine" value="3011595693070" />
+        <entry key="$PROJECT_DIR$/../YytRpc" value="8874807941475" />
+        <entry key="$PROJECT_DIR$/../vde_monitor" value="4463733976124" />
+        <entry key="$PROJECT_DIR$/../yytWeb" value="2972866912232" />
+      </map>
+    </option>
+  </component>
+  <component name="IdProvider" IDEtalkID="C1FDD6A384C4CE2D64A54328C4B1D8B3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectModuleManager">
+    <modules />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.lastSelected" value="File.Encoding" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="0" />
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ThriftCompiler">
+    <compilers />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
